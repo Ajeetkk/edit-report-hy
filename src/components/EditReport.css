@@ -1,0 +1,9 @@
+.btnRadius {
+    border-radius: 10em;
+}
+.btnRadius.floating{
+    float: right;
+}
+.lbl{
+    color: green;
+}
